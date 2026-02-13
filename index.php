@@ -8,6 +8,7 @@
 <body>
     <h1>Bienvenido a mi página personal. Aquí encontrarás 
     información sobre mis proyectos, habilidades y experiencia profesional.</h1>
+    <a href="acerca_de.php">Acerca de mí</a>
     
 </body>
 </html>
