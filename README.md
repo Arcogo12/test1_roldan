@@ -6,3 +6,9 @@ universidad Tecnologica de la selva
 
 ## lugar de procedencia
 Ocosingo Chiapas 2026
+
+
+## Datos
+Roldan Aldemar Arcos Gomez 
+# Carrera
+Desarrollo de sofware Multiplataforma 
